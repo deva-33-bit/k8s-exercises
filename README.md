@@ -10,5 +10,6 @@ Practice exercises for learning Kubernetes with Minikube.
 | [Exercise-4](Exercise-4/README.md) | Docker networking: Flask, MySQL and Redis on a bridge network |
 | [Exercise-5](Exercise-5/README.md) | Docker security: AppArmor profile with the Python Docker SDK |
 | [Exercise-6](Exercise-6/README.md) | Monitoring: Python metrics, Prometheus, Grafana and Jenkins |
+| [Exercise-7](Exercise-7/README.md) | CI concepts and installing Jenkins with Docker |
 
 ![Nginx welcome page](Images/nginx-welcome.png)
