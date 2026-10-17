@@ -12,5 +12,6 @@ Practice exercises for learning Kubernetes with Minikube.
 | [Exercise-6](Exercise-6/README.md) | Monitoring: Python metrics, Prometheus, Grafana and Jenkins |
 | [Exercise-7](Exercise-7/README.md) | CI concepts and installing Jenkins with Docker |
 | [Exercise-8](Exercise-8/README.md) | Jenkins Hello World job that runs a script from GitHub |
+| [Exercise-9](Exercise-9/README.md) | Jenkins multi-stage pipeline: build, test and deploy a Flask app |
 
 ![Nginx welcome page](Images/nginx-welcome.png)
