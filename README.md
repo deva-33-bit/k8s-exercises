@@ -13,5 +13,6 @@ Practice exercises for learning Kubernetes with Minikube.
 | [Exercise-7](Exercise-7/README.md) | CI concepts and installing Jenkins with Docker |
 | [Exercise-8](Exercise-8/README.md) | Jenkins Hello World job that runs a script from GitHub |
 | [Exercise-9](Exercise-9/README.md) | Jenkins multi-stage pipeline: build, test and deploy a Flask app |
+| [Exercise-10](Exercise-10/README.md) | Multi-node cluster: two apps with replicas spread across nodes |
 
 ![Nginx welcome page](Images/nginx-welcome.png)
